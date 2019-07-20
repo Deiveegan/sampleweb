@@ -3,7 +3,7 @@
 <?php
    include "cn.php";
 
-    // Check connection
+    // Check connection 1
     if ($conn->connect_error) {
         die("Connection failed: " . $conn->connect_error);
     } 
@@ -16,6 +16,7 @@
     else{
             echo "Error: " . $sql . "<br>" . $conn->error;
      }
+     // End of call
 
 
     $conn->close();
