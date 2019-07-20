@@ -5,7 +5,11 @@
 
     // Check connection 1
    // Check connection 3
+<<<<<<< HEAD
    //enrolled 
+=======
+   // New resolevd
+>>>>>>> d17acdd... Resolved
     if ($conn->connect_error) {
         die("Connection failed: " . $conn->connect_error);
     } 
