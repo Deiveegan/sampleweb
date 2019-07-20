@@ -5,6 +5,7 @@
 
     // Check connection 1
    // Check connection 3
+   //enrolled 
     if ($conn->connect_error) {
         die("Connection failed: " . $conn->connect_error);
     } 
