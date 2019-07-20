@@ -4,6 +4,7 @@
    include "cn.php";
 
     // Check connection 1
+   // Check connection 3
     if ($conn->connect_error) {
         die("Connection failed: " . $conn->connect_error);
     } 
