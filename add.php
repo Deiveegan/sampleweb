@@ -5,15 +5,7 @@
 
     // Check connection 1
    // Check connection 3
-<<<<<<< HEAD
-
-=======
-<<<<<<< HEAD
-   //enrolled 
-=======
-   // New resolevd
->>>>>>> d17acdd... Resolved
->>>>>>> 5ffa522e81eaae6edfb4141ec7ad5ee74b2328d0
+//deiveegan added this line
     if ($conn->connect_error) {
         die("Connection failed: " . $conn->connect_error);
     } 
