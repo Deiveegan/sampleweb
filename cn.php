@@ -4,6 +4,7 @@
                         
                         $servername = "localhost";
                         $username = "root";
+                    //    Password is empty for local host
                         $password = "";
                         $dbname = "dei";
                         
